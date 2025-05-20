@@ -5,7 +5,7 @@ import os
 
 router = APIRouter()
 
-@router.post("/api/transcribe/")
+@router.post("/api/generate/")
 async def transcribe_audio(file: UploadFile = File(...)):
     temp_path = f"temp_upload_{file.filename}"
     with open(temp_path, "wb") as f:
