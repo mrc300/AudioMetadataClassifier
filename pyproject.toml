@@ -1,49 +1,33 @@
-[project]
+[tool.poetry]
 name = "audiometadataclassifier"
 version = "0.1.0"
-description = "Enhace metadata for audio files"
-authors = [
-    {name = "manuelcunha",email = "manelfcunha@gmail.com"}
-]
-
-
-
+description = "Enhance metadata for audio files"
+authors = ["Manuel Cunha <manelfcunha@gmail.com>"]
 readme = "README.md"
-requires-python = ">=3.12"
-dependencies = [
-    "fastapi (>=0.115.12,<0.116.0)",
-    "uvicorn (>=0.34.2,<0.35.0)",
-    "python-multipart (>=0.0.20,<0.0.21)",
-    "torch (>=2.7.0,<3.0.0)",
-    "whisper (>=1.1.10,<2.0.0)",
-    "openai-whisper @ git+https://github.com/openai/whisper.git",
-    "soundfile (>=0.13.1,<0.14.0)",
-    "yake (>=0.4.8,<0.5.0)",
-    "silero-vad @ git+https://github.com/snakers4/silero-vad.git",
-    "pydantic (>=2.11.4,<3.0.0)"
-]
+packages = [{ include = "audiometadataclassifier", from = "src" }]
 
-
-[build-system]
-requires = ["poetry-core>=2.0.0,<3.0.0"]
-build-backend = "poetry.core.masonry.api"
+[tool.poetry.dependencies]
+python = ">=3.9,<3.13"
+fastapi = ">=0.115.12,<0.116.0"
+uvicorn = ">=0.34.2,<0.35.0"
+python-multipart = ">=0.0.20,<0.0.21"
+torch = ">=2.7.0,<3.0.0"
+whisper = ">=1.1.10,<2.0.0"
+openai-whisper = { git = "https://github.com/openai/whisper.git" }
+soundfile = ">=0.13.1,<0.14.0"
+yake = ">=0.4.8,<0.5.0"
+silero-vad = { git = "https://github.com/snakers4/silero-vad.git" }
+pydantic = ">=2.11.4,<3.0.0"
 
 [tool.poetry.group.dev.dependencies]
 black = "^25.1.0"
 isort = "^6.0.1"
 
-[tool.poetry.dependencies]
-torch = "*"
-
-
-
-
-
-[tool.poetry]
-name = "audiometadataclassifier"
-version = "0.1.0"
-packages = [{ include = "audiometadataclassifier", from = "src" }]
-
-
 [tool.poetry.scripts]
 start = "audiometadataclassifier.scripts.start:run"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+
