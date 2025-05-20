@@ -73,5 +73,5 @@ def transcribe_audio_segments(segments, sr=16000):
             logger.error(f"Failed to process segment {i}: {e}")
 
     logger.info("Transcription complete.")
-    os.rmdir(CUSTOM_TEMP_DIR)
-    return metadata
+    
+    return metadata  
