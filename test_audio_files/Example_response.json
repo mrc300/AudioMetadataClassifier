@@ -1,0 +1,844 @@
+{
+  "segments": [
+    {
+      "segment_id": 0,
+      "start_time_sec": 5.9,
+      "end_time_sec": 13.6,
+      "language": "en",
+      "transcription": "The Danish land was always been impossible to understand for most kind of names, but the reason yes, it has been impossible to understand for us in Denmark too.",
+      "keywords": [
+        "impossible to understand",
+        "Danish land",
+        "impossible",
+        "understand",
+        "Danish"
+      ]
+    },
+    {
+      "segment_id": 1,
+      "start_time_sec": 14.1,
+      "end_time_sec": 19.6,
+      "language": "en",
+      "transcription": "So for me the Danish language has collapsed into meaning of the gut-roll sounds.",
+      "keywords": [
+        "Danish language",
+        "gut-roll sounds",
+        "language has collapsed",
+        "collapsed into meaning",
+        "Danish"
+      ]
+    },
+    {
+      "segment_id": 2,
+      "start_time_sec": 21.6,
+      "end_time_sec": 28,
+      "language": "pt",
+      "transcription": "Por exemplo, de cada dia, de a problema básico, de a flat size, adeguento a traditional deenisais em quarenta-me.",
+      "keywords": [
+        "Por exemplo",
+        "cada dia",
+        "problema básico",
+        "flat size",
+        "adeguento a traditional"
+      ]
+    },
+    {
+      "segment_id": 3,
+      "start_time_sec": 28.2,
+      "end_time_sec": 29.5,
+      "language": "tl",
+      "transcription": "I'm gonna kaming ay.",
+      "keywords": [
+        "gonna kaming",
+        "gonna",
+        "kaming"
+      ]
+    },
+    {
+      "segment_id": 4,
+      "start_time_sec": 29.6,
+      "end_time_sec": 32.2,
+      "language": "da",
+      "transcription": "Det er en timen, remember, der er denne skvart på hællong.",
+      "keywords": [
+        "der er denne",
+        "skvart på hællong",
+        "denne skvart",
+        "remember",
+        "Det"
+      ]
+    },
+    {
+      "segment_id": 5,
+      "start_time_sec": 40.7,
+      "end_time_sec": 41.7,
+      "language": "en",
+      "transcription": "Anything I'll be able to saw.",
+      "keywords": []
+    },
+    {
+      "segment_id": 6,
+      "start_time_sec": 42.4,
+      "end_time_sec": 43.5,
+      "language": "en",
+      "transcription": "repeat it with his head.",
+      "keywords": [
+        "repeat",
+        "head"
+      ]
+    },
+    {
+      "segment_id": 7,
+      "start_time_sec": 44.4,
+      "end_time_sec": 45.1,
+      "language": "tr",
+      "transcription": "Burası geldi.",
+      "keywords": [
+        "Burası geldi",
+        "Burası",
+        "geldi"
+      ]
+    },
+    {
+      "segment_id": 8,
+      "start_time_sec": 46.6,
+      "end_time_sec": 47,
+      "language": "en",
+      "transcription": "Thank you.",
+      "keywords": []
+    },
+    {
+      "segment_id": 9,
+      "start_time_sec": 48.8,
+      "end_time_sec": 49.6,
+      "language": "tr",
+      "transcription": "Sonski ne oluyor?",
+      "keywords": [
+        "Sonski ne oluyor",
+        "Sonski",
+        "oluyor"
+      ]
+    },
+    {
+      "segment_id": 10,
+      "start_time_sec": 54.8,
+      "end_time_sec": 55.9,
+      "language": "en",
+      "transcription": "What's going to happen in school?",
+      "keywords": [
+        "happen in school",
+        "school",
+        "happen"
+      ]
+    },
+    {
+      "segment_id": 11,
+      "start_time_sec": 57.4,
+      "end_time_sec": 58.6,
+      "language": "en",
+      "transcription": "Let's go before I'm here to watch.",
+      "keywords": [
+        "watch"
+      ]
+    },
+    {
+      "segment_id": 12,
+      "start_time_sec": 61.2,
+      "end_time_sec": 61.8,
+      "language": "ru",
+      "transcription": "Вон есть, кей!",
+      "keywords": [
+        "Вон есть",
+        "кей",
+        "Вон",
+        "есть"
+      ]
+    },
+    {
+      "segment_id": 13,
+      "start_time_sec": 63.6,
+      "end_time_sec": 64.3,
+      "language": "zh",
+      "transcription": "是一個空氣",
+      "keywords": [
+        "是一個空氣"
+      ]
+    },
+    {
+      "segment_id": 14,
+      "start_time_sec": 75,
+      "end_time_sec": 77.7,
+      "language": "de",
+      "transcription": "Schieger Kohlewasser, das ist der Wimpsortel.",
+      "keywords": [
+        "ist der Wimpsortel",
+        "Schieger Kohlewasser",
+        "das ist der",
+        "der Wimpsortel",
+        "das ist"
+      ]
+    },
+    {
+      "segment_id": 15,
+      "start_time_sec": 78.4,
+      "end_time_sec": 79,
+      "language": "zh",
+      "transcription": "現在就說了",
+      "keywords": [
+        "現在就說了"
+      ]
+    },
+    {
+      "segment_id": 16,
+      "start_time_sec": 81.6,
+      "end_time_sec": 82.2,
+      "language": "en",
+      "transcription": "Thanks.",
+      "keywords": []
+    },
+    {
+      "segment_id": 17,
+      "start_time_sec": 82.7,
+      "end_time_sec": 84.1,
+      "language": "en",
+      "transcription": "Yeah, some common baddies.",
+      "keywords": [
+        "Yeah",
+        "common baddies",
+        "baddies",
+        "common"
+      ]
+    },
+    {
+      "segment_id": 18,
+      "start_time_sec": 84.5,
+      "end_time_sec": 86.2,
+      "language": "en",
+      "transcription": "I don't know what a game it would be a push-bong.",
+      "keywords": [
+        "push-bong",
+        "game"
+      ]
+    },
+    {
+      "segment_id": 19,
+      "start_time_sec": 86.5,
+      "end_time_sec": 89.6,
+      "language": "en",
+      "transcription": "So then I just had to take a wild shot and I said the word.",
+      "keywords": [
+        "wild shot",
+        "word",
+        "wild",
+        "shot"
+      ]
+    },
+    {
+      "segment_id": 20,
+      "start_time_sec": 90.5,
+      "end_time_sec": 91.2,
+      "language": "en",
+      "transcription": "I'm a law.",
+      "keywords": [
+        "law"
+      ]
+    },
+    {
+      "segment_id": 21,
+      "start_time_sec": 92,
+      "end_time_sec": 93.9,
+      "language": "ru",
+      "transcription": "Я скурянный камрежу!",
+      "keywords": [
+        "скурянный камрежу",
+        "камрежу",
+        "скурянный"
+      ]
+    },
+    {
+      "segment_id": 22,
+      "start_time_sec": 98.8,
+      "end_time_sec": 100,
+      "language": "en",
+      "transcription": "I'm a lot of wash.",
+      "keywords": [
+        "lot of wash",
+        "wash",
+        "lot"
+      ]
+    },
+    {
+      "segment_id": 23,
+      "start_time_sec": 100.3,
+      "end_time_sec": 104.6,
+      "language": "da",
+      "transcription": "En genere laver mig, så er det ikke så, at der er en altså en kræmst over den over den af osen, der ikke så kold.",
+      "keywords": [
+        "genere laver mig",
+        "laver mig",
+        "ikke så kold",
+        "genere laver",
+        "altså en kræmst"
+      ]
+    },
+    {
+      "segment_id": 24,
+      "start_time_sec": 105.3,
+      "end_time_sec": 105.7,
+      "language": "en",
+      "transcription": "Bye!",
+      "keywords": [
+        "Bye"
+      ]
+    },
+    {
+      "segment_id": 25,
+      "start_time_sec": 106.1,
+      "end_time_sec": 107.3,
+      "language": "vi",
+      "transcription": "Cảm ơn lỗi rồi",
+      "keywords": [
+        "Cảm ơn lỗi",
+        "lỗi rồi",
+        "Cảm",
+        "rồi",
+        "lỗi"
+      ]
+    },
+    {
+      "segment_id": 26,
+      "start_time_sec": 112,
+      "end_time_sec": 112.9,
+      "language": "en",
+      "transcription": "Bees, Pego!",
+      "keywords": [
+        "Pego",
+        "Bees"
+      ]
+    },
+    {
+      "segment_id": 27,
+      "start_time_sec": 119.2,
+      "end_time_sec": 119.5,
+      "language": "ko",
+      "transcription": "수고하셨습니다.",
+      "keywords": [
+        "수고하셨습니다"
+      ]
+    },
+    {
+      "segment_id": 28,
+      "start_time_sec": 127.9,
+      "end_time_sec": 130.5,
+      "language": "en",
+      "transcription": "He gave me a file but then I had no choice. I just had to take it.",
+      "keywords": [
+        "choice",
+        "gave",
+        "file"
+      ]
+    },
+    {
+      "segment_id": 29,
+      "start_time_sec": 131.2,
+      "end_time_sec": 131.5,
+      "language": "zh",
+      "transcription": "拜拜",
+      "keywords": []
+    },
+    {
+      "segment_id": 30,
+      "start_time_sec": 131.7,
+      "end_time_sec": 135.4,
+      "language": "da",
+      "transcription": "Det godt er bedt dags på godt, og jeg rele trættet over et frutøjembatter.",
+      "keywords": [
+        "jeg rele trættet",
+        "Det godt",
+        "bedt dags",
+        "jeg rele",
+        "rele trættet"
+      ]
+    },
+    {
+      "segment_id": 31,
+      "start_time_sec": 135.7,
+      "end_time_sec": 137.1,
+      "language": "de",
+      "transcription": "Das gibt es keine Freitag, man.",
+      "keywords": [
+        "keine Freitag",
+        "man",
+        "Das gibt",
+        "Freitag",
+        "gibt es keine"
+      ]
+    },
+    {
+      "segment_id": 32,
+      "start_time_sec": 141.2,
+      "end_time_sec": 141.5,
+      "language": "en",
+      "transcription": "Oh.",
+      "keywords": []
+    },
+    {
+      "segment_id": 33,
+      "start_time_sec": 141.8,
+      "end_time_sec": 142.9,
+      "language": "de",
+      "transcription": "Die Gnaden.",
+      "keywords": [
+        "Die Gnaden",
+        "Gnaden",
+        "Die"
+      ]
+    },
+    {
+      "segment_id": 34,
+      "start_time_sec": 143.4,
+      "end_time_sec": 144,
+      "language": "ja",
+      "transcription": "できた!",
+      "keywords": [
+        "できた"
+      ]
+    },
+    {
+      "segment_id": 35,
+      "start_time_sec": 151.6,
+      "end_time_sec": 153.3,
+      "language": "ar",
+      "transcription": "سالن لبميل كشة",
+      "keywords": [
+        "سالن لبميل كشة",
+        "سالن لبميل",
+        "لبميل كشة",
+        "سالن",
+        "كشة"
+      ]
+    },
+    {
+      "segment_id": 36,
+      "start_time_sec": 160.1,
+      "end_time_sec": 160.5,
+      "language": "en",
+      "transcription": "Thank you.",
+      "keywords": []
+    },
+    {
+      "segment_id": 37,
+      "start_time_sec": 165.3,
+      "end_time_sec": 165.6,
+      "language": "en",
+      "transcription": "Thank you.",
+      "keywords": []
+    },
+    {
+      "segment_id": 38,
+      "start_time_sec": 168.7,
+      "end_time_sec": 169,
+      "language": "en",
+      "transcription": "Okay.",
+      "keywords": []
+    },
+    {
+      "segment_id": 39,
+      "start_time_sec": 172.1,
+      "end_time_sec": 172.6,
+      "language": "en",
+      "transcription": "Thank you.",
+      "keywords": []
+    },
+    {
+      "segment_id": 40,
+      "start_time_sec": 172.9,
+      "end_time_sec": 176.3,
+      "language": "da",
+      "transcription": "Hvis jeg har beenklaringe, at jeg er fullt i min to år drøtt tausen lidt der som hjemmeligt.",
+      "keywords": [
+        "der som hjemmeligt",
+        "Hvis jeg har",
+        "jeg har beenklaringe",
+        "drøtt tausen lidt",
+        "tausen lidt der"
+      ]
+    },
+    {
+      "segment_id": 41,
+      "start_time_sec": 177,
+      "end_time_sec": 177.8,
+      "language": "en",
+      "transcription": "Yeah, maybe.",
+      "keywords": [
+        "Yeah"
+      ]
+    },
+    {
+      "segment_id": 42,
+      "start_time_sec": 178,
+      "end_time_sec": 178.9,
+      "language": "en",
+      "transcription": "and solve a fucking watch.",
+      "keywords": [
+        "fucking watch",
+        "solve a fucking",
+        "watch",
+        "solve",
+        "fucking"
+      ]
+    },
+    {
+      "segment_id": 43,
+      "start_time_sec": 179.8,
+      "end_time_sec": 182.1,
+      "language": "da",
+      "transcription": "De er en virkelig mærke 14, og der er det ikke, at det er en kastepardet.",
+      "keywords": [
+        "virkelig mærke",
+        "det ikke",
+        "der er det",
+        "det",
+        "mærke"
+      ]
+    },
+    {
+      "segment_id": 44,
+      "start_time_sec": 182.4,
+      "end_time_sec": 183.7,
+      "language": "hi",
+      "transcription": "पर परा मीं हूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूू",
+      "keywords": [
+        "परा मीं हूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूूू",
+        "परा मीं",
+        "परा",
+        "मीं"
+      ]
+    },
+    {
+      "segment_id": 45,
+      "start_time_sec": 184.1,
+      "end_time_sec": 184.7,
+      "language": "de",
+      "transcription": "Kostobläim!",
+      "keywords": [
+        "Kostobläim"
+      ]
+    },
+    {
+      "segment_id": 46,
+      "start_time_sec": 185.2,
+      "end_time_sec": 186.8,
+      "language": "en",
+      "transcription": "Any money after you cost the feed?",
+      "keywords": [
+        "cost the feed",
+        "feed",
+        "money",
+        "cost"
+      ]
+    },
+    {
+      "segment_id": 47,
+      "start_time_sec": 187.4,
+      "end_time_sec": 190.8,
+      "language": "da",
+      "transcription": "Og det skal du have en karme og døsket, gange tager jeg med at få tilbage, men det skal det se, at glas os.",
+      "keywords": [
+        "gange tager jeg",
+        "tager jeg med",
+        "men det skal",
+        "det skal det",
+        "karme og døsket"
+      ]
+    },
+    {
+      "segment_id": 48,
+      "start_time_sec": 191.1,
+      "end_time_sec": 192.2,
+      "language": "en",
+      "transcription": "Want you to just say that?",
+      "keywords": []
+    },
+    {
+      "segment_id": 49,
+      "start_time_sec": 194.4,
+      "end_time_sec": 195.8,
+      "language": "da",
+      "transcription": "Nu er det 100.000 æm.",
+      "keywords": [
+        "det"
+      ]
+    },
+    {
+      "segment_id": 50,
+      "start_time_sec": 196.8,
+      "end_time_sec": 202.2,
+      "language": "en",
+      "transcription": "A new default cross with A-D-Six crowns, but the Danish number system is very complicated, so I just said something.",
+      "keywords": [
+        "Danish number system",
+        "crowns",
+        "Danish number",
+        "default cross",
+        "number system"
+      ]
+    },
+    {
+      "segment_id": 51,
+      "start_time_sec": 202.8,
+      "end_time_sec": 204,
+      "language": "pt",
+      "transcription": "E no tênio, faz um...",
+      "keywords": [
+        "tênio",
+        "faz"
+      ]
+    },
+    {
+      "segment_id": 52,
+      "start_time_sec": 204.4,
+      "end_time_sec": 205.3,
+      "language": "de",
+      "transcription": "Wir haben uns auch...",
+      "keywords": [
+        "Wir haben uns",
+        "haben uns auch",
+        "Wir haben",
+        "uns auch",
+        "haben uns"
+      ]
+    },
+    {
+      "segment_id": 53,
+      "start_time_sec": 205.5,
+      "end_time_sec": 206.7,
+      "language": "no",
+      "transcription": "Hva heller så løver?",
+      "keywords": [
+        "Hva heller",
+        "heller så løver",
+        "Hva",
+        "løver",
+        "heller"
+      ]
+    },
+    {
+      "segment_id": 54,
+      "start_time_sec": 207.3,
+      "end_time_sec": 208,
+      "language": "en",
+      "transcription": "You",
+      "keywords": []
+    },
+    {
+      "segment_id": 55,
+      "start_time_sec": 209,
+      "end_time_sec": 209.8,
+      "language": "en",
+      "transcription": "Yeah.",
+      "keywords": [
+        "Yeah"
+      ]
+    },
+    {
+      "segment_id": 56,
+      "start_time_sec": 210.1,
+      "end_time_sec": 214.1,
+      "language": "en",
+      "transcription": "You said the price but I didn't know what the number is said. I just held out the clump of money.",
+      "keywords": [
+        "clump of money",
+        "price",
+        "number",
+        "money",
+        "held"
+      ]
+    },
+    {
+      "segment_id": 57,
+      "start_time_sec": 214.9,
+      "end_time_sec": 215.2,
+      "language": "en",
+      "transcription": "you",
+      "keywords": []
+    },
+    {
+      "segment_id": 58,
+      "start_time_sec": 215.5,
+      "end_time_sec": 216.1,
+      "language": "en",
+      "transcription": "Yeah.",
+      "keywords": [
+        "Yeah"
+      ]
+    },
+    {
+      "segment_id": 59,
+      "start_time_sec": 217.2,
+      "end_time_sec": 218.2,
+      "language": "en",
+      "transcription": "That's your feet again, Fred.",
+      "keywords": [
+        "Fred",
+        "feet"
+      ]
+    },
+    {
+      "segment_id": 60,
+      "start_time_sec": 218.3,
+      "end_time_sec": 219.6,
+      "language": "en",
+      "transcription": "Oh, by the end of the day.",
+      "keywords": [
+        "day",
+        "end"
+      ]
+    },
+    {
+      "segment_id": 61,
+      "start_time_sec": 224.6,
+      "end_time_sec": 225.2,
+      "language": "en",
+      "transcription": "See you next time!",
+      "keywords": [
+        "time"
+      ]
+    },
+    {
+      "segment_id": 62,
+      "start_time_sec": 226.4,
+      "end_time_sec": 227.4,
+      "language": "de",
+      "transcription": "Oder ist das nicht?",
+      "keywords": [
+        "Oder ist das",
+        "ist das nicht",
+        "Oder ist",
+        "das nicht",
+        "ist das"
+      ]
+    },
+    {
+      "segment_id": 63,
+      "start_time_sec": 231.2,
+      "end_time_sec": 232.2,
+      "language": "en",
+      "transcription": "nothing is done.",
+      "keywords": []
+    },
+    {
+      "segment_id": 64,
+      "start_time_sec": 232.5,
+      "end_time_sec": 234.1,
+      "language": "en",
+      "transcription": "The Danish Society with Collapse.",
+      "keywords": [
+        "Society with Collapse",
+        "Danish Society",
+        "Collapse",
+        "Danish",
+        "Society"
+      ]
+    },
+    {
+      "segment_id": 65,
+      "start_time_sec": 234.4,
+      "end_time_sec": 235.7,
+      "language": "en",
+      "transcription": "It's not a question or if.",
+      "keywords": [
+        "question"
+      ]
+    },
+    {
+      "segment_id": 66,
+      "start_time_sec": 236,
+      "end_time_sec": 237.1,
+      "language": "en",
+      "transcription": "It's a question of when.",
+      "keywords": [
+        "question"
+      ]
+    },
+    {
+      "segment_id": 67,
+      "start_time_sec": 238.1,
+      "end_time_sec": 238.8,
+      "language": "en",
+      "transcription": "We need help.",
+      "keywords": []
+    },
+    {
+      "segment_id": 68,
+      "start_time_sec": 239.4,
+      "end_time_sec": 243.8,
+      "language": "da",
+      "transcription": "Blik, her er det en af pælde, du er den nativnasien, en en nasel kommunik.",
+      "keywords": [
+        "den nativnasien",
+        "nasel kommunik",
+        "Blik",
+        "pælde",
+        "nativnasien"
+      ]
+    },
+    {
+      "segment_id": 69,
+      "start_time_sec": 244.4,
+      "end_time_sec": 245.1,
+      "language": "es",
+      "transcription": "¡Ves juntos!",
+      "keywords": [
+        "Ves juntos",
+        "Ves",
+        "juntos"
+      ]
+    },
+    {
+      "segment_id": 70,
+      "start_time_sec": 245.5,
+      "end_time_sec": 246.4,
+      "language": "en",
+      "transcription": "We need to add some.",
+      "keywords": [
+        "add"
+      ]
+    },
+    {
+      "segment_id": 71,
+      "start_time_sec": 246.8,
+      "end_time_sec": 247.5,
+      "language": "en",
+      "transcription": "Good-ask both.",
+      "keywords": [
+        "Good-ask"
+      ]
+    },
+    {
+      "segment_id": 72,
+      "start_time_sec": 247.7,
+      "end_time_sec": 252.7,
+      "language": "en",
+      "transcription": "No, no, no, no, we don't need any help. Of course, this is this is gone. Or just so fine on the whole come with case.",
+      "keywords": [
+        "case",
+        "fine"
+      ]
+    },
+    {
+      "segment_id": 73,
+      "start_time_sec": 253.3,
+      "end_time_sec": 255.6,
+      "language": "en",
+      "transcription": "Leave us a low place, let's handle this yourself.",
+      "keywords": [
+        "low place",
+        "Leave",
+        "place",
+        "low",
+        "handle"
+      ]
+    }
+  ]
+}
