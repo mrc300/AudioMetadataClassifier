@@ -1,17 +1,18 @@
-from fastapi import APIRouter, UploadFile, File, HTTPException
-from src.models.schema import AudioResponse
-from src.services.audio_utils import process_audio
+from fastapi import APIRouter, UploadFile, File
+from src.utils.audio_processing import split_audio_segments
+from src.services.transcription_service import transcribe_audio_segments
+import os
 
 router = APIRouter()
 
+@router.post("/api/transcribe/")
+async def transcribe_audio(file: UploadFile = File(...)):
+    temp_path = f"temp_upload_{file.filename}"
+    with open(temp_path, "wb") as f:
+        f.write(await file.read())
 
-@router.post("/process-audio", response_model=AudioResponse)
-async def upload_audio(file: UploadFile = File(...)):
-    if not file.filename.endswith((".mp3", ".wav")):
-        raise HTTPException(status_code=400, detail="Only .mp3 or .wav files are allowed.")
+    segments = split_audio_segments(temp_path)
+    metadata = transcribe_audio_segments(segments)
 
-    try:
-        result = await process_audio(file)
-        return result
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Audio processing failed: {str(e)}")
+    os.remove(temp_path)
+    return {"segments": metadata}
