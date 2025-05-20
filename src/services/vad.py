@@ -1,0 +1,9 @@
+from silero_vad import load_silero_vad, read_audio, get_speech_timestamps
+
+
+
+
+model_vad = load_silero_vad()
+
+
+
