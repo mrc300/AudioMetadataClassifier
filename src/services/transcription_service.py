@@ -3,13 +3,16 @@ import yake
 import io
 import logging
 import soundfile as sf
-
+import torch
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
 logger = logging.getLogger(__name__)
 
+device = "cuda" if torch.cuda.is_available() else "cpu"
+logging.info(f"Using device: {device.upper()}")
 
-whisper_model = whisper.load_model("tiny", "cuda")
+whisper_model = whisper.load_model("tiny", device=device)
+
 kw_extractor = yake.KeywordExtractor()
 
 def transcribe_audio_segments(segments, sr=16000):
