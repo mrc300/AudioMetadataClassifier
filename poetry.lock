@@ -1929,4 +1929,4 @@ tabulate = "*"
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.12"
-content-hash = "23f8ab9c9d186fdaefae5d5b2a9a9c16adad8c6c9344490aa1bf378ea574e67a"
+content-hash = "e5eab301057156616a1e3453c140d942669654cb3e0b36e0c291cc18c19eb777"
