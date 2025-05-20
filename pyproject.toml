@@ -1,10 +1,13 @@
 [project]
 name = "audiometadataclassifier"
 version = "0.1.0"
-description = ""
+description = "Enhace metadata for audio files"
 authors = [
-    {name = "manuelcunha",email = "mrffc@iscte-iul.pt"}
+    {name = "manuelcunha",email = "manelfcunha@gmail.com"}
 ]
+
+
+
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
@@ -31,3 +34,16 @@ isort = "^6.0.1"
 
 [tool.poetry.dependencies]
 torch = "*"
+
+
+
+
+
+[tool.poetry]
+name = "audiometadataclassifier"
+version = "0.1.0"
+packages = [{ include = "audiometadataclassifier", from = "src" }]
+
+
+[tool.poetry.scripts]
+start = "audiometadataclassifier.scripts.start:run"
